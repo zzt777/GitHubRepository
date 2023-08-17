@@ -1,1 +1,1 @@
-# GitRepository
+# GitHubRepository
